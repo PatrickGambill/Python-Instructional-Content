@@ -1,2 +1,2 @@
 # Python-Instructional-Content
-This instructional content was created by me for the Kansas State University Math DRP. This content is still a work in progress, and anyone is welcome to use it.
+This instructional content was created by me for the Kansas State University Math DRP. This content is still a work in progress, and anyone is welcome to use it. Within the file, there are solutions files and notebook files. Each notebook file is contains interactive exercises that import the solutions file. If you want to modify the exercises, you will need to modify the corresponding solutions file as well, if you want instant feedback. If you have any feedback, I will try to implement it as I have time.
